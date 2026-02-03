@@ -13,5 +13,12 @@ And here’s the cool part: the skills you gain don’t stop there. The talent c
 
 At the end of the day, AI and data aren’t some magic key—but they are the tools that let us unlock new possibilities. Every model we build, every dataset we explore, opens the door just a little further. And with competitions like the EY AI & Data Challenge, we don’t just build solutions—we build skills, careers, and maybe even a better world.
 
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/___7kD-uLkQ"
+allowfullscreen>
+</iframe>
+
+
 [![Watch the video](thumbnail.png)](https://www.youtube.com/watch?v=___7kD-uLkQ)
 
